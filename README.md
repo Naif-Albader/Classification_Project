@@ -20,11 +20,6 @@ In this project i user two datasets
 
 
 ## Scope of the work
-Sample size:
-
-Description for the datset as num of rows, number of features/columns, names of columns with description:
-
-Description of scrapped data: </br>
 
 > Number of features:  5 features/Columns
 
