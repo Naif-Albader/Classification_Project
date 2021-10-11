@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Review Filter</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css')}}">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;600&display=swap" rel="stylesheet">
+
+
+
+  </head>
+  <body>
+
+    <form method="POST">
+      <div class="title">
+        <h2>IMDB review filter</h2>
+      </div>
+
+      <div class="itemx">
+        <label>Review</label>
+        <textarea name="usr" rows="20" cols="80" style="background-color:#efefef"></textarea>
+
+      </div>
+
+        <br>
+
+
+        <br>
+      <div class="itemx">
+        <div>
+          <p>{{ val }} Review</p>
+             <br>
+        </div>
+      </div>
+         <br>
+         <br>
+      <div class="action">
+
+        <input type="submit" value = "PREDICT">
+        <input type="reset" value = "RESET">
+      </div>
+<!--      <div class="icons">-->
+<!--        <a href="" class = "fa fa-twitter"></a>-->
+<!--        <a href="" class = "fa fa-facebook"></a>-->
+<!--        <a href="" class = "fa fa-instagram"></a>-->
+<!--        <a href="" class = "fa fa-github"></a>-->
+<!--      </div>-->
+        </div>
+    </form>
+
+  </body>
+</html>
