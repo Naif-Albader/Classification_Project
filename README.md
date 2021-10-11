@@ -1,4 +1,5 @@
-# Regression_Project
+# Classification_Project
+
 
 ### Sentiment Analysis of IMDB Movie Reviews
 
