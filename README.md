@@ -44,6 +44,7 @@ The main technologies and libraries that will be used are:
 Technologies:
 > - Python
 > - Jupyter Notebook
+> - google colab
 
 
 Libraries:
