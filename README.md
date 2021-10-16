@@ -9,7 +9,7 @@
 > IMDb is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. An additional fan feature, message boards, was abandoned in February 2017. Originally a fan-operated website, the database is now owned and operated by IMDb.com, Inc., a subsidiary of Amazon.
 
 #### Problem statement:
-> IMDB wants to add new filter to the films reviews, they want to filter them based on Positive/Negative reviews
+>  filter to the films reviews, based on Positive/Negative reviews
 
 
 ## Data Description:
